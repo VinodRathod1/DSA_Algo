@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/VinodRathod1/DSA_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/VinodRathod1/DSA_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/VinodRathod1/DSA_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
