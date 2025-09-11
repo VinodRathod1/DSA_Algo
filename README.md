@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
+| [2887-sort-vowels-in-a-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/2887-sort-vowels-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
