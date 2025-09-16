@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VinodRathod1/DSA_Algo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
