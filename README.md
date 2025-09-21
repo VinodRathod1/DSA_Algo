@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/VinodRathod1/DSA_Algo/tree/master/3827-implement-router) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VinodRathod1/DSA_Algo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/VinodRathod1/DSA_Algo/tree/master/3827-implement-router) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
+| [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
 ## Shortest Path
@@ -158,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/VinodRathod1/DSA_Algo/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/VinodRathod1/DSA_Algo/tree/master/3827-implement-router) |
