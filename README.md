@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VinodRathod1/DSA_Algo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VinodRathod1/DSA_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/VinodRathod1/DSA_Algo/tree/master/1036-rotting-oranges) |
