@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/VinodRathod1/DSA_Algo/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
+| [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
