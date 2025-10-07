@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 | [3827-implement-router](https://github.com/VinodRathod1/DSA_Algo/tree/master/3827-implement-router) |
 ## Binary Tree
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/VinodRathod1/DSA_Algo/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VinodRathod1/DSA_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VinodRathod1/DSA_Algo/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
