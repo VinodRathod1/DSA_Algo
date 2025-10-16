@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/VinodRathod1/DSA_Algo/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
