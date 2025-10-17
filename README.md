@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VinodRathod1/DSA_Algo/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
