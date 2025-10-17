@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
@@ -283,4 +286,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
