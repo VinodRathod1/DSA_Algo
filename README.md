@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VinodRathod1/DSA_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VinodRathod1/DSA_Algo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
@@ -327,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
