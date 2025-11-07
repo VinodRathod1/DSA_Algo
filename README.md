@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
+| [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VinodRathod1/DSA_Algo/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VinodRathod1/DSA_Algo/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
