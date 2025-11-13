@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
