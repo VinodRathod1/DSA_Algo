@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VinodRathod1/DSA_Algo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VinodRathod1/DSA_Algo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VinodRathod1/DSA_Algo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VinodRathod1/DSA_Algo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
