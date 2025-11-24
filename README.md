@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VinodRathod1/DSA_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VinodRathod1/DSA_Algo/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VinodRathod1/DSA_Algo/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VinodRathod1/DSA_Algo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/VinodRathod1/DSA_Algo/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VinodRathod1/DSA_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VinodRathod1/DSA_Algo/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VinodRathod1/DSA_Algo/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/VinodRathod1/DSA_Algo/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VinodRathod1/DSA_Algo/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VinodRathod1/DSA_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VinodRathod1/DSA_Algo/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VinodRathod1/DSA_Algo/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/2887-sort-vowels-in-a-string) |
