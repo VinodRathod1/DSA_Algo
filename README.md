@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0060-permutation-sequence) |
 ## Divide and Conquer
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0024-swap-nodes-in-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Memoization
 |  |
