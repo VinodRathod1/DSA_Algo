@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VinodRathod1/DSA_Algo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VinodRathod1/DSA_Algo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinodRathod1/DSA_Algo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -224,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
 | [1753-path-with-minimum-effort](https://github.com/VinodRathod1/DSA_Algo/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/VinodRathod1/DSA_Algo/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VinodRathod1/DSA_Algo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
