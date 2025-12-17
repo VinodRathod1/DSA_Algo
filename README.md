@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VinodRathod1/DSA_Algo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VinodRathod1/DSA_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VinodRathod1/DSA_Algo/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/VinodRathod1/DSA_Algo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/VinodRathod1/DSA_Algo/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VinodRathod1/DSA_Algo/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VinodRathod1/DSA_Algo/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/VinodRathod1/DSA_Algo/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VinodRathod1/DSA_Algo/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/VinodRathod1/DSA_Algo/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VinodRathod1/DSA_Algo/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
