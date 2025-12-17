@@ -2,15 +2,17 @@ class Solution {
     public:
     int numberOfWays(string s) {
         long a = 1, m = 1e9 + 7;
-        vector<int> v;
+        int c = 0, p = -1;
         for (int i = 0; i < s.size(); i++) {
-            if (s[i] == 'S') v.push_back(i);
+            if (s[i] == 'S') {
+                c++;
+                if (c > 2 && c % 2 == 1) {
+                    a = (a * (i - p)) % m;
+                }
+                p = i;
+            }
         }
-        if (v.empty() || v.size() % 2 != 0) return 0;
-        for (int i = 2; i < v.size(); i += 2) {
-            a = (a * (v[i] - v[i - 1])) % m;
-        }
-        return (int)a;
+        return (c > 0 && c % 2 == 0) ? a : 0;
     }
 };
 
