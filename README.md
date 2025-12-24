@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/VinodRathod1/DSA_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VinodRathod1/DSA_Algo/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/VinodRathod1/DSA_Algo/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/VinodRathod1/DSA_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/VinodRathod1/DSA_Algo/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VinodRathod1/DSA_Algo/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinodRathod1/DSA_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/VinodRathod1/DSA_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/0567-permutation-in-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VinodRathod1/DSA_Algo/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VinodRathod1/DSA_Algo/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
