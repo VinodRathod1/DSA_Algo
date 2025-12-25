@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VinodRathod1/DSA_Algo/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinodRathod1/DSA_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/VinodRathod1/DSA_Algo/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VinodRathod1/DSA_Algo/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VinodRathod1/DSA_Algo/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
