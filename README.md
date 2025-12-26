@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0040-combination-sum-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/0120-triangle) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VinodRathod1/DSA_Algo/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
