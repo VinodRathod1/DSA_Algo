@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
+| [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VinodRathod1/DSA_Algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/VinodRathod1/DSA_Algo/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0794-swim-in-rising-water) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VinodRathod1/DSA_Algo/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
+| [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/VinodRathod1/DSA_Algo/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VinodRathod1/DSA_Algo/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -479,5 +483,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
