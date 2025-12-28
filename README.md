@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
@@ -467,8 +469,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
