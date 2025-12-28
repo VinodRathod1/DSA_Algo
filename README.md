@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VinodRathod1/DSA_Algo/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinodRathod1/DSA_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VinodRathod1/DSA_Algo/tree/master/0567-permutation-in-string) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 | [2023-design-movie-rental-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VinodRathod1/DSA_Algo/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/VinodRathod1/DSA_Algo/tree/master/3678-design-task-manager) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Memoization
 |  |
@@ -464,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
