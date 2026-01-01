@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/VinodRathod1/DSA_Algo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0060-permutation-sequence) |
 ## Divide and Conquer
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VinodRathod1/DSA_Algo/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/VinodRathod1/DSA_Algo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/VinodRathod1/DSA_Algo/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VinodRathod1/DSA_Algo/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
