@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinodRathod1/DSA_Algo/tree/master/0084-largest-rectangle-in-histogram) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VinodRathod1/DSA_Algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VinodRathod1/DSA_Algo/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VinodRathod1/DSA_Algo/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/VinodRathod1/DSA_Algo/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
