@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VinodRathod1/DSA_Algo/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VinodRathod1/DSA_Algo/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VinodRathod1/DSA_Algo/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VinodRathod1/DSA_Algo/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VinodRathod1/DSA_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VinodRathod1/DSA_Algo/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VinodRathod1/DSA_Algo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/VinodRathod1/DSA_Algo/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
