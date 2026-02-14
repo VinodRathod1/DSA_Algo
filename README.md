@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/VinodRathod1/DSA_Algo/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VinodRathod1/DSA_Algo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/VinodRathod1/DSA_Algo/tree/master/0799-champagne-tower) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VinodRathod1/DSA_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VinodRathod1/DSA_Algo/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VinodRathod1/DSA_Algo/tree/master/1700-minimum-time-to-make-rope-colorful) |
