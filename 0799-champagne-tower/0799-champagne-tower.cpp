@@ -1,17 +1,18 @@
 class Solution {
 public:
-    double solve(int poured,int q,int g,vector<vector<double>>&dp){
-        if(q<0 || g<0 || q<g)return 0;
-        if(q==0 && g==0)return poured;
-        if(dp[q][g]!=-1.0)return dp[q][g];
-        double left=(solve(poured,q-1,g-1,dp)-1)/2.0;
-        double right=(solve(poured,q-1,g,dp)-1)/2.0;
-        if(left<0)left=0.0;
-        if(right<0)right=0.0;
-        return dp[q][g]=left+right;
-    }
     double champagneTower(int poured, int query_row, int query_glass) {
-        vector<vector<double>>dp(100,vector<double>(100,-1.0));
-        return min(1.0,solve(poured,query_row,query_glass,dp));
+        vector<vector<double>>dp(100,vector<double>(100,0.0));
+        dp[0][0]=poured;
+        for(int i=0;i<query_row;i++){
+            for(int j=0;j<=i;j++){
+                if(dp[i][j]>1.0){
+                    double overflow=dp[i][j]-1.0;
+                    dp[i+1][j]+=overflow/2.0;
+                    dp[i+1][j+1]+=overflow/2.0;
+                    dp[i][j]=1.0;
+                }
+            }
+        }
+        return min(1.0,dp[query_row][query_glass]);
     }
 };
