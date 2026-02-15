@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VinodRathod1/DSA_Algo/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VinodRathod1/DSA_Algo/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VinodRathod1/DSA_Algo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VinodRathod1/DSA_Algo/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinodRathod1/DSA_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/VinodRathod1/DSA_Algo/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/VinodRathod1/DSA_Algo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/VinodRathod1/DSA_Algo/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VinodRathod1/DSA_Algo/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/VinodRathod1/DSA_Algo/tree/master/0131-palindrome-partitioning) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/VinodRathod1/DSA_Algo/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/VinodRathod1/DSA_Algo/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VinodRathod1/DSA_Algo/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VinodRathod1/DSA_Algo/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VinodRathod1/DSA_Algo/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
