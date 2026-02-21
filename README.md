@@ -515,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VinodRathod1/DSA_Algo/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/VinodRathod1/DSA_Algo/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VinodRathod1/DSA_Algo/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
