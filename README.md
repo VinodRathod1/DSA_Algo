@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/VinodRathod1/DSA_Algo/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/VinodRathod1/DSA_Algo/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VinodRathod1/DSA_Algo/tree/master/0166-fraction-to-recurring-decimal) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VinodRathod1/DSA_Algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/VinodRathod1/DSA_Algo/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VinodRathod1/DSA_Algo/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-largest-perimeter-triangle) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VinodRathod1/DSA_Algo/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/VinodRathod1/DSA_Algo/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VinodRathod1/DSA_Algo/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VinodRathod1/DSA_Algo/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VinodRathod1/DSA_Algo/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VinodRathod1/DSA_Algo/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/VinodRathod1/DSA_Algo/tree/master/2059-unique-length-3-palindromic-subsequences) |
