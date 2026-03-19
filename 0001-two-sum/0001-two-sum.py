@@ -8,5 +8,7 @@ class Solution(object):
                return [mpp[c],i]
            else:
                mpp[nums[i]]=i
-
+            
        return []
+
+       
